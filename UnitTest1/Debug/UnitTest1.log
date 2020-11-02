@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\User\OneDrive\Визуал\СтруктурыЛаба1\СтруктурыЛаба1\List.cpp(119,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\OneDrive\Визуал\СтруктурыЛаба1\СтруктурыЛаба1\List.cpp(168,21): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\User\OneDrive\Визуал\СтруктурыЛаба1\Debug\UnitTest1.lib и объект C:\Users\User\OneDrive\Визуал\СтруктурыЛаба1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\User\OneDrive\Визуал\СтруктурыЛаба1\Debug\UnitTest1.dll
