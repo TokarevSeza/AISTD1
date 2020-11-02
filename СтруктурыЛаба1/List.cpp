@@ -184,7 +184,6 @@ size_t List::get_size()
 void List::print_to_console()
 {
 	system("CLS");
-	cout << "Size = " << size << endl;
 	if (size != 0)
 	{
 		Node* temp = head;
@@ -197,6 +196,7 @@ void List::print_to_console()
 	}
 	else
 		cout << "There is nothing to print" << endl;
+	cout << "Size = " << size << endl;
 	system("pause");
 }
 
